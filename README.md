@@ -56,3 +56,7 @@
 
 ### NOTES 
 * There are many more types of tools you can layer onto your pipeline, test coverage measurement tools, Linters, security testing tools, performance testing tools, but these are the basics, and nailing the basics is the key to getting to continuous integration, and then, if you want, to continuous deployment.
+
+### CI FLOW Diagram
+
+![CI FLOW diagram](assets/cidiagram.png "cidiagram-arch")
